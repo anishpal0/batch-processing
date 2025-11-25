@@ -1,0 +1,6 @@
+,Test Accuracy,Test Accuracy,Test Accuracy,Test Accuracy,Generalization Gap,Generalization Gap,Avg Epoch Time,Avg Epoch Time,Avg Epoch Time
+,mean,std,max,min,mean,std,mean,min,max
+Dataset,,,,,,,,,
+Large (50K),99.29,0.04,99.34,99.23,-0.161,0.06,2.662,0.139,15.29
+Medium (10K),98.529,0.563,99.05,97.45,0.107,0.182,0.527,0.028,3.016
+Small (1K),95.643,1.406,97.5,93.0,1.839,1.376,0.052,0.003,0.297
